@@ -4,18 +4,17 @@
 
 ## Build Setup
 
+Main function：普通用户和管理员用户，用户注册，登陆，找回，点赞，评论，用户发表图片，视频，文章，收藏小说，漫画，影视
+
 ``` bash
+
+
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
